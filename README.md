@@ -8,4 +8,6 @@ Unified Geometric-Temporal-Companion Model for Mass Scaling
 
 Ω(t) = Π_{D₄}(E₈ ⊗ ℤ(φ)) ∩ {(Fᵢ, Lᵢ) ∈ ℤ² | Fᵢ = F_{i-1} + F_{i-2} (mod 9), Lᵢ² − 5 Fᵢ² = 4(−1)ⁱ}
 
+F₀ = F₁₈₉, F₁ = F₁₉₀
+
 Hierarchical Mass Scaling via Golden-Ratio Recursion and 24-Step Modulation A Bounded Geometric Model with Electron-Mediated Motivation
