@@ -1,6 +1,6 @@
-Hierarchical Mass Scaling via Golden-Ratio Recursion, E₈ Lattice Projections, and 24-Step Modular Resonance
+Hierarchical Mass Scaling via Golden-Ratio Recursion and 24-Step Modulation
 
-A Speculative Geometric-Numerical Framework Exploring Proton and Electron Mass Connections
+A Bounded Geometric Model with Electron-Mediated Motivation
 
 φ^{-k} → 24-cell ⊃ E₈ Lie Group → Si:P qubit → proton mass
 
