@@ -1,8 +1,8 @@
-Hierarchical Mass Scaling via Golden-Ratio Recursion and 24-Step Modulation
+Hierarchical Mass Scaling via Golden-Ratio Recursion and 24-Step Modulation  
 
-Unified Geometric-Temporal-Companion Model
+Unified Geometric-Temporal-Companion Model  
 
-A Bounded Geometric Model with Electron-Mediated Motivation
+A Bounded Geometric Unification of Proton and Electron Masses
 
 φ^{-k} → 24-cell ⊃ E₈ Lie Group → Si:P qubit → proton mass
 
