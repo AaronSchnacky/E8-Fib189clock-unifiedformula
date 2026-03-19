@@ -1,4 +1,4 @@
-Hierarchical Mass Scaling via Golden-Ratio Recursion and 24-Step Modulation
+Hierarchical Mass Scaling via Golden-Ratio Recursion, E₈ Lattice Projections, and 24-Step Modular Resonance
 
 A Speculative Geometric-Numerical Framework Exploring Proton and Electron Mass Connections
 
