@@ -1,6 +1,8 @@
-Hierarchical Mass Scaling via Golden-Ratio Recursion and 24-Step Modulation
+1. Hierarchical Mass Scaling via Golden-Ratio Recursion and 24-Step Modulation
 
 A Bounded Geometric Model with Electron-Mediated Motivation and Quasicrystalline Interpretation
+
+2. Hypothetical Geometric-Temporal Exploit Framework in Lattice-Based Cryptography and Physical Entropy Sources
 
 φ^{-k} → 24-cell ⊃ E₈ Lie Group → Si:P qubit → proton mass
 
