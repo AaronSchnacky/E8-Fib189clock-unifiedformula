@@ -4,7 +4,9 @@ A Bounded Geometric Model with Electron-Mediated Motivation and Quasicrystalline
 
 2. Hypothetical Geometric-Temporal Exploit Framework in Lattice-Based Cryptography and Physical Entropy Sources
 
-3. 6 missing links
+3. 7 missing links summary
+
+4. 7 missing links details
 
 φ^{-k} → 24-cell ⊃ E₈ Lie Group → Si:P qubit → proton mass
 
